@@ -23,7 +23,13 @@
 </ul>
 <br/>
 <form action="https://efstratios.github.io/">
-<input type="button" value="Go Back" onclick="location.href='/~index.html/';return true;"/>
+<input type="button" value="Go Back" onclick="goBack();return true;"/>
+<button onclick="goBack()">Go Back</button>
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
 </form>
 </div>
 </div>

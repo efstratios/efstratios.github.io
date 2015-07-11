@@ -1,2 +1,2 @@
-# efstratios.github.io
-Personal Webpage
+#  -- efstratios.github.io --
+This is my personal webpage 
