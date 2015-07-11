@@ -1,0 +1,52 @@
+@charset "utf-8";
+body{
+	margin-left:8px;margin-top:5px;padding:0px;
+	height:100%;
+	font-family:Futura,"Trebuchet MS",Arial,sans-serif;
+}
+html{background-color:#F2F2F2;}
+h1{	
+	text-align:left;font-size:25px;font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+	margin-bottom:-3px;margin-top:2px;
+}
+h2{
+	text-align:left;font-size:25px;font-family:Futura,"Trebuchet MS",Arial,sans-serif;	
+	margin-bottom:-12px;margin-top:-2px;
+}
+p{font-family:Futura,"Trebuchet MS",Arial,sans-serif;}
+span.tab0{padding:0 26px;}
+span.tab1{padding:0 33px;}
+span.tab2{padding:0 15px;}
+span.tab3{padding:0 10px;}
+span.current{color:red;font-family:Futura,"Trebuchet MS",Arial,sans-serif;}
+.space {margin-bottom:102px;}
+.space0{margin-bottom:10px;}
+.spacem{margin-bottom:15px;}
+#header{text-align:center;}
+#wrapper{width: 1024px;margin: 0 auto;height: 100%;}
+#name{text-align:left;}
+.email_icon{width: 23px;height: 16px;background: url(sprite.png) 0px 0px;border: 0;}
+#gh{width: 20px;height: 20px;background: url(sprite.png) -23px 0px;border: 0;}
+#lin{width: 20px;height: 20px;background: url(sprite.png) -43px 0px;border: 0;}
+#tw{width: 20px;height: 20px;background: url(sprite.png) -63px 0px;border: 0;}
+#wrapper_2{
+	margin-left:8px;margin-top:5px;
+	height:100%;overflow: hidden;
+	font-family:Futura,"Trebuchet MS",Arial,sans-serif;
+}
+#misc{height:100%;overflow: hidden; font-family:Futura,"Trebuchet MS",Arial,sans-serif;}
+#me{
+	-moz-box-shadow: 2px 2px 2px 2px #888;
+	-webkit-box-shadow: 2px 2px 2px 2px#888;
+	box-shadow: 0 2px 3px 3px #888;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+}
+img.floatLeft{ 
+    float:left;margin-right:8px; margin-left:4px; margin-top:4px;margin-bottom:4px;
+	overflow:hidden;
+	font-family:Futura,"Trebuchet MS",Arial,sans-serif;
+}
+#footer{font-family:Futura,"Trebuchet MS",Arial,sans-serif;text-align:center;} 
+
+
