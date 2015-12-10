@@ -5,7 +5,7 @@ excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-Hello. My name is Efstratios Skleparis and I am B.Sc graduate in Computer Science from [Department of Informatics and Telecommunications](http://di.uoa.gr/eng) at [National and Kapodistrian University of Athens](http://en.uoa.gr). <br/>I am interested in Information Security and Privacy Protection in general.
+Hello. My name is Efstratios Skleparis and I am B.Sc graduate in Computer Science from [Department of Informatics and Telecommunications](http://di.uoa.gr/eng){:target="_blank"} at [National and Kapodistrian University of Athens](http://en.uoa.gr){:target="_blank"}. <br/>I am interested in Information Security and Privacy Protection in general.
 
 ## Research interests
 
