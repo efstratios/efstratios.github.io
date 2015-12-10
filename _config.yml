@@ -1,121 +1,61 @@
+# Site wide configuration
 
-# Site settings
-
-url: "https://efstratios.github.io/"
-baseurl: ""
+locale:           en_US
+url: https://efstratios.github.io/          
+title: Efstratios Skleparis
 force-https: True
 
-syntax-highlight: True
+# Jekyll configuration
 
-# Sections shown in the index page
-
-pages_list:
-  About: 'about'
-  CV: 'CV'
-  Contact: 'contact'
-
-web-app-mode: True
-
-#############
-# HTML Head #
-#############
-
-author: "efstratios skleparis"
-lang: "en"
-title: ""
-favicon: "/img/favicon.ico"
-description: "Personal web page of  Efstratios Skleparis."
-keywords: "efstratios, skleparis, technology, computer science, jekyll"
-
-################
-# Intro layout #
-################
-
-# background-img: "../img/img.jpg"
-# me-img: "/img/me.jpg"
-
-##############################
-# Dynamic Text on the header #
-##############################
-
-dynamic-typing: True
-shuffle: Flase # Shuffle the lines.
-loop: False
-loop-count: 1 # Set False for infinite loop, or set any number for finite loop.
-type-speed: 4 # Default 10
-start-delay: 2000 # Default 200
-delete-delay: 50000 # Default 5000
-lines: # You can add HTML Tags in the Text
-  - text: ""
-
-########
-# Blog #
-########
-
-# post-preview-words: 96
-
-# paginate: 5
-
-# email-share: True
-# fb-share: True
-# twitter-share: True
-# linkedin-share: True
-# reddit-share: True
-# google-plus-share: True
-# tumblr-share: True
-# pinterest-share: True
-# pocket-share: True
-# vkontakte-share: True
-
-
-###############
-# Life Events #
-###############
-
-# events:
-
-# First image of the Career timeline
-timeline-img: "/img/career/default.jpg"
-
-##################
-# Contact layout #
-##################
-
-email: "eskleparis@protonmail.com"
-
-##################
-# Social Buttons #
-##################
-
-social:
-  - title: "github"
-    url: "https://github.com/efstratios"
-  - title: "linkedin"
-    url: "https://no.linkedin.com/in/"
-  - title: "twitter"
-    url: "https://twitter.com/Rel0aded911"
-
-
-############
-# 404 page #
-############
-
-#404-img: "/img/.png"
-
-################################################################################
-
-# Tread carefully if you want to change the variables bellow this point!
-
-# Pagination path
-paginate_path: "blog/page:num"
-
-# Enable minification SASS
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
 sass:
+  sass_dir: _sass
   style: compressed
-
-# Exclusion list from the generated _site
-exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
-
 gems:
-  - jekyll-paginate
-  - jemoji
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Efstratios Skleparis
+  avatar: bio-photo.jpg
+  bio: 
+  email: eskleparis@protonmail.com
+  disqus-shortname:
+  twitter: Rel0aded911
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: efstratios
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: eskleparis
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
