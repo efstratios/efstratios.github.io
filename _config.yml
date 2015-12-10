@@ -3,7 +3,6 @@
 locale:           en_US
 url:   https://efstratios.github.io          
 title: Efstratios Skleparis
-force-https: True
 
 # Jekyll configuration
 
