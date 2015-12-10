@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Random URLs & Assorted Information
-excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
+excerpt: "Miscellaneous Information"
 ---
 
 * [Colorize](http://misc.flogisoft.com/bash/tip_colors_and_formatting){:target="_blank"} your terminal
