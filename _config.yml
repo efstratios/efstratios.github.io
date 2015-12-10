@@ -1,7 +1,7 @@
 # Site wide configuration
 
 locale:           en_US
-url:   https://efstratios.github.io          
+baseurl:   https://efstratios.github.io          
 title: Efstratios Skleparis
 
 # Jekyll configuration
