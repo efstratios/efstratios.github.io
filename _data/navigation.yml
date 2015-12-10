@@ -1,14 +1,14 @@
 # Site navigation links
 
 - title: Home
-  url: /
+  url: 
 
 - title: Experience
-  url: /experience/
+  url: experience/
 
 - title: Curriculum Vitae
-  url: /CV/
+  url: CV/
 
 - title: Misc
-  url: /misc/
+  url: misc/
 
