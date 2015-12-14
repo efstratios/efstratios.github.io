@@ -1,6 +1,6 @@
-# - - efstratios.github.io - - 
+# .: https://efstratios.github.io :. 
 
-Hello. This is my personal Webpage, constantly updated. Stay tuned.
+Hello! This is my personal web page, constantly updated. Stay tuned..
 
 # Minimal Mistakes
 
