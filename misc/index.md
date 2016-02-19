@@ -6,9 +6,9 @@ excerpt: "Miscellaneous Information"
 
 * [Colorize](http://misc.flogisoft.com/bash/tip_colors_and_formatting){:target="_blank"} your terminal
 * Entertainment website about [coding](http://thecodinglove.com/){:target="_blank"}
-* The best [advice](https://www.linkedin.com/pulse/best-advice-ive-received-never-hiroshi){:target="_blank"} I have received: Never stop studying. By Hiroshi Mikitani.
+* The best [advice](https://www.linkedin.com/pulse/best-advice-ive-received-never-hiroshi){:target="_blank"} I have received: Never stop studying. By Hiroshi Mikitani
 * Best [wallpapers](http://alpha.wallhaven.cc/){:target="_blank"} on the net
-* Highlights of my favorite Muay Thai fighters [Somrak Khamsing](https://www.youtube.com/watch?v=8VcBUJmP1F0){:target="_blank"} and [Saenchai](https://www.youtube.com/watch?v=gJ-JSVxsPaU){:target="_blank"}.
+* Highlights of my favorite Muay Thai fighters [Somrak Khamsing](https://www.youtube.com/watch?v=8VcBUJmP1F0){:target="_blank"} and [Saenchai](https://www.youtube.com/watch?v=gJ-JSVxsPaU){:target="_blank"}
 
 
 ## Definition of Hacking by [Bruce Schneier](https://www.schneier.com/){:target="_blank"}
