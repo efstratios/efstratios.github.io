@@ -15,4 +15,4 @@ Hello. My name is Efstratios Skleparis and I am a B.Sc graduate in Computer Scie
 
 ## Contact
 
-If you would like to contact me, please send me an [email](mailto:eskleparis@protonmail.com), and you can get my PGP key [here](/pkey.asc).
+If you would like to contact me, please send me an [email](mailto:eskleparis@gmail.com), and you can get my PGP key [here](/pkey.asc).
