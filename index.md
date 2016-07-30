@@ -4,7 +4,7 @@ title: About me
 excerpt: "Efstratios Skleparis - Personal Webpage"
 ---
 
- \>_ Hello. My name is Efstratios Skleparis and I am a B.Sc graduate in Computer Science from [Department of Informatics and Telecommunications](http://di.uoa.gr/eng){:target="_blank"} at [National and Kapodistrian University of Athens](http://en.uoa.gr){:target="_blank"}. <br/>I am interested in Information Security and Privacy Protection in general.
+ \>_ Hello. My name is Efstratios Skleparis and I am a B.Sc graduate in Computer Science from [Department of Informatics and Telecommunications](http://di.uoa.gr/eng){:target="_blank"} at [University of Athens](http://en.uoa.gr){:target="_blank"}. <br/>I am interested in Information Security and Privacy Protection in general.
 
 ## Research interests
 
