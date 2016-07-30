@@ -7,5 +7,5 @@ excerpt: " Curriculum Vitae "
 
 Here is my [CV](/CV/EfstratiosSkleparis.pdf) (Probably outdated). 
 <br><br>
-> For an updated version, please contact me via [email](mailto:eskleparis@protonmail.com).
+> For an updated version, please contact me via [email](mailto:eskleparis@gmail.com).
 
