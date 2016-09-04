@@ -13,7 +13,7 @@ share: true
 
 ---
 Research and Informatics Corps Private.
-<br/>
+<br/><br/>
 Hellenic Army Information Technology Support Center (ΚΕ.Π.Υ.Ε.Σ) is ISO 27001:2013 Certified. 
-<br/>
+<br/><br/>
 The rest is classified..
