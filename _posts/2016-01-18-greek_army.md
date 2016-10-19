@@ -14,6 +14,7 @@ share: true
 ---
 Fulfilled my Military Service Obligations at Research and Informatics Corps, Hellenic Army.
 
+<br/>
 During my Military Service as Research and Informatics Corps Private, I was an Information Security Analyst for Hellenic Army Cyber Defence Division.
 
 <br/>
