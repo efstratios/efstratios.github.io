@@ -17,5 +17,6 @@ excerpt: "Efstratios Skleparis - Personal Webpage"
 
 ## Contact
 
-If you would like to contact me, please send me an [email](mailto:eskleparis@gmail.com),my PGP key has got the ID number 9ED6CD644252465D and you can get my PGP key [here](/misc/pkey.txt){:target="_blank"}
+If you would like to contact me, please send me an [email](mailto:eskleparis@gmail.com).
+<br/>My PGP key has got the ID number 9ED6CD644252465D and you can get my PGP key [here](/misc/pkey.txt){:target="_blank"}
 <br/>PGP Fingerprint : 5E3A 8094 0C15 15BA A415 4A2A B1A5 8EF6 C044 4D5B.
