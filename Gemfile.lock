@@ -85,7 +85,6 @@ DEPENDENCIES
   jekyll (~> 3.4.3)
   jekyll-gist
   jekyll-sitemap
-  kramdown
   octopress
   thin
 
