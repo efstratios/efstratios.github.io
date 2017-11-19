@@ -20,4 +20,4 @@ excerpt: "Efstratios Skleparis - Personal Webpage"
 
 If you would like to contact me, please send me an [email](mailto:eskleparis@gmail.com).
 <br/>
-<br/>My PGP key has got the ID number 9ED6CD644252465D and you can get my PGP key [here](/misc/pkey.txt){:target="_blank"}.
+<br/>My [PGP key](/misc/pkey.txt){:target="_blank"} has got the ID number 9ED6CD644252465D. 
