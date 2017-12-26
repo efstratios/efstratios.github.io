@@ -3,7 +3,7 @@ layout: post
 title: "Junior Information Security Engineer"
 excerpt: "Member of INTRASOFT International S.A Information Security Team located at Athens, Greece"
 tags: [sample post, code, highlighting]
-end_date: Now
+end_date: now
 share: true
 ---
 
