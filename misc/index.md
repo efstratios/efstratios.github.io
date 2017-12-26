@@ -24,7 +24,7 @@ Some of my favorite quotes:
 * Ποθητός είναι μάλλον ή φοβερός κατά βίον προαιρού.Ον πάντες φοβούνται, πάντας φοβείται. Δημόκριτος
 * Πέτρην κοιλαίνει ρανίς ύδατος ενδελεχείη. Χορίλος
 * Τύμμα τύμματι τίσαι. Αισχύλος
-* The master has failed more times the beginner has ever tried. Stephen McCranie
-* Winners never quit and quitters never win. Vince Lombardi
+* The master has failed more times the beginner has ever tried. S. McCranie
+* Winners never quit and quitters never win. V. Lombardi
 * Push yourself because no one is going to do it for you. Unknown
 
