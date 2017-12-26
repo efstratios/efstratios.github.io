@@ -21,7 +21,8 @@ A hacker is someone who thinks outside the box. It's someone who discards conven
 Some of my favorite quotes:
 
 * Αι δεύτεραι πως φροντίδες σοφώτεραι. Ευριπίδης
-* Ποθητός είναι μάλλον ή φοβερός κατά βίον προαιρού.Ον πάντες φοβούνται, πάντας φοβείται. Δημόκριτος
+* Ποθητός είναι μάλλον ή φοβερός κατά βίον προαιρού.   
+ Ον πάντες φοβούνται, πάντας φοβείται. Δημόκριτος
 * Πέτρην κοιλαίνει ρανίς ύδατος ενδελεχείη. Χορίλος
 * Τύμμα τύμματι τίσαι. Αισχύλος
 * The master has failed more times the beginner has ever tried. S. McCranie
