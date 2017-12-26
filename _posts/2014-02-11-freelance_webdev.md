@@ -3,7 +3,7 @@ layout: post
 title: "Freelance Web Developer"
 excerpt: "Developing Websites for fun and friends."
 tags: [sample post, code, highlighting]
-end_date: Now
+end_date: now
 share: true
 ---
 
