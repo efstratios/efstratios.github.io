@@ -12,3 +12,5 @@ share: true
 ### Duration: November 2016 - Now
 
 ---
+
+Was a Junior Information Security Engineer from 03/11/2016 until 31/1/2018.
