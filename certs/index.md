@@ -11,3 +11,4 @@ share: true
 * Carbon Black Response Advanced Administration Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
 * Carbon Black Response Advanced Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
 * Carbon Black Defense Administrator Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
+* Carbon Black Defense Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
