@@ -12,3 +12,4 @@ share: true
 * Carbon Black Response Advanced Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
 * Carbon Black Defense Administrator Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
 * Carbon Black Defense Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
+* WiFi Hacking: Wireless Penetration Testing for Beginners by [Udemy](https://www.udemy.com/user/jason-dion/){:target="_blank"}
