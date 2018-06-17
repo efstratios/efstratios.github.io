@@ -13,5 +13,5 @@ share: true
 * Carbon Black Defense Administrator Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
 * Carbon Black Defense Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank"}
 * WiFi Hacking: Wireless Penetration Testing for Beginners by [Udemy](https://www.udemy.com/user/jason-dion/){:target="_blank"}
-* Learn Wi-Fi Password Penetration Testing (WEP/WPA/WPA2) by [Udemy](https://intrasoft-intl.udemy.com/user/zaidsabih/){:target="_blank"}
-* Master Microsoft PowerShell by [Udemy](https://intrasoft-intl.udemy.com/user/techmountainconsulting/){:target="_blank"}
+* Learn Wi-Fi Password Penetration Testing (WEP/WPA/WPA2) by [Udemy](https://www.udemy.com/user/zaidsabih/){:target="_blank"}
+* Master Microsoft PowerShell by [Udemy](https://www.udemy.com/user/techmountainconsulting/){:target="_blank"}
