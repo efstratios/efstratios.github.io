@@ -26,7 +26,7 @@ share: true
 * Carbon Black Defense Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank" rel="noopener"}
 
 ### Misc:
-
+* Social Engineering, OSINT & Malware for Hacking by [Udemy](https://www.udemy.com/user/muharrem-aydin-2/){:target="_blank" rel="noopener"}
 * Master Microsoft PowerShell by [Udemy](https://www.udemy.com/user/techmountainconsulting/){:target="_blank" rel="noopener"}
 
 ### Personal Development:
