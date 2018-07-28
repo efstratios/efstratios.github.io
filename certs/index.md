@@ -34,3 +34,4 @@ share: true
 
 * A Mini Course on Time Management by [Udemy](https://www.udemy.com/user/brandonhakim/){:target="_blank" rel="noopener"}
 * The Science of Leadership by [Udemy](https://www.udemy.com/user/gregorycaremans/){:target="_blank" rel="noopener"}
+* Confident Body Language - Master Non Verbal Communication by [Udemy](https://www.udemy.com/user/jimmynaraine/){:target="_blank" rel="noopener"}
