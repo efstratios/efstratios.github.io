@@ -11,6 +11,8 @@ share: true
 ###	Mobile related courses:
 
 * Android Application Hacking BlackHat Edition by [AppSec Labs](https://appsec-labs.com/){:target="_blank" rel="noopener"}
+* Learn Hacking Using Android From Scratch by [Udemy](https://www.udemy.com/user/zaidsabih/){:target="_blank" rel="noopener"}
+
 
 ### Wi-Fi related courses:
 
