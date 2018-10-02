@@ -6,7 +6,8 @@ share: true
 ---
 
 ### Certifications:
-* OSCP (Offensive Security Certified Professional) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
+* Offensive Security Certified Professional (OSCP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
+* Offensive Security Wireless Professional (OSWP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 
 ###	Mobile related courses:
 
