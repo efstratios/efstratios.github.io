@@ -13,4 +13,4 @@ share: true
 
 ---
 
-Was a Junior Information Security Engineer from 03/11/2016 until 31/1/2018.
+Started as a Junior Information Security Engineer.
