@@ -9,7 +9,7 @@ share: true
 
 ### Company Name: [INTRASOFT International S.A.](https://www.intrasoft-intl.com/)
 
-### Duration: November 2016 - Now
+### Duration: November 2016 - Now 
 
 ---
 
