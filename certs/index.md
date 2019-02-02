@@ -30,6 +30,7 @@ share: true
 
 ### Misc:
 * Social Engineering, OSINT & Malware for Hacking by [Udemy](https://www.udemy.com/user/muharrem-aydin-2/){:target="_blank" rel="noopener"}
+* Risk Management for Cybersecurity and IT Managers [Udemy](https://www.udemy.com/user/jason-dion/){:target="_blank" rel="noopener"}
 * Web hacking and Security by [Udemy](https://www.udemy.com/user/infysec-2/){:target="_blank" rel="noopener"}
 * Master Microsoft PowerShell by [Udemy](https://www.udemy.com/user/techmountainconsulting/){:target="_blank" rel="noopener"}
 
