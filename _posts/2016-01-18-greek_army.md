@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Information Security Analyst"
-excerpt: "Fulfilled my Military Service Obligations at Hellenic Army Cyber Defence Division"
+excerpt: "Fulfilled my Military Service Obligations at Hellenic Army Cyber Defence Division."
 tags: [sample post, code, highlighting]
 end_date: 2016-10-18
 share: true
