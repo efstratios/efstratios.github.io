@@ -8,6 +8,7 @@ share: true
 ### Certifications:
 * Offensive Security Certified Professional (OSCP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Offensive Security Wireless Professional (OSWP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
+* Certified Red Team Professional (CRTP) by [Pentester Academy](https://www.pentesteracademy.com/activedirectorylab){:target="_blank" rel="noopener"}
 
 ###	Mobile related courses:
 
