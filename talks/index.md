@@ -5,7 +5,7 @@ tags: [sample post, code, highlighting]
 share: true
 ---
 
-### Talks:
+### Conferences:
 * Offensive PowerShell Methods for Attacking Active Directory at [BSides Cyprus 2019](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
 
 ### Workshops:
