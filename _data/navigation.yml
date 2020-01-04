@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: Home
+- title: /Home
   url: 
 
-- title: Experience
+- title: /Experience
   url: experience
 
-- title: Misc
+- title: /Misc
   url: misc
