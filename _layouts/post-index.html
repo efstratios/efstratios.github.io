@@ -38,14 +38,14 @@
     <br><br>
     For an updated version of my CV, please contact me via <a style="text-decoration:underline;" href="mailto:eskleparis@gmail.com">email</a>.
     <br><br>
-    {% capture written_year %}'None'{% endcapture %}
+    <!-- {% capture written_year %}'None'{% endcapture %} -->
     {% assign sorted = site.posts | sort: 'end_date' | reverse %}
     {% for post in sorted %}  
-     {% capture year %}{{ post.date | date: '%b. %Y' }}{% endcapture %}
-      {% if year != written_year and nyear != written_year %}
+     <!-- {% capture year %}{{ post.date | date: '%b. %Y' }}{% endcapture %} -->
+      <!-- {% if year != written_year and nyear != written_year %} -->
         <h3> {{ year }} &#8211; {{post.end_date | date: '%b. %Y' }} </h3>
-        {% capture written_year %}{{ year }}{% endcapture %}
-      {% endif %}
+        <!-- {% capture written_year %}{{ year }}{% endcapture %} -->
+      <!-- {% endif %} -->
       <article>
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" rel="noopener" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
