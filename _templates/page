@@ -3,7 +3,6 @@ layout: {{ layout }}
 title: {{ title }}
 date: {{ date }}
 modified:
-end_date:
 excerpt:
 tags: []
 image:
