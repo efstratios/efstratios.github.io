@@ -5,6 +5,7 @@ excerpt: "Fulfilled my Military Service Obligations at Hellenic Army Cyber Defen
 tags: [sample post, code, highlighting]
 end_date: 2016-10-18
 share: true
+index: 1
 ---
 
 ### Company Name: [Hellenic Army Information Technology Support Center](http://army.gr/)

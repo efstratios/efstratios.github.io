@@ -5,6 +5,7 @@ excerpt: "Internship at NN Hellenic Life Insurance Co. S.A. (former ING Greek Li
 tags: [sample post, code, highlighting]
 end_date: 2015-01-12
 share: true
+index: 0
 ---
 
 ### Company Name: [NN Hellenic Life Insurance Co. S.A.](https://www.nnhellas.gr/en/)
