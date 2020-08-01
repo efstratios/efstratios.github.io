@@ -39,7 +39,8 @@
     For an updated version of my CV, please contact me via <a style="text-decoration:underline;" href="mailto:eskleparis@gmail.com">email</a>.
     <br><br>
     {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.posts %}  
+    {% assign sorted = site.posts | sort: 'end_date' | reverse %}
+    {% for post in sorted %}  
      {% capture year %}{{ post.date | date: '%b. %Y' }}{% endcapture %}
       {% if year != written_year and nyear != written_year %}
         <h3> {{ year }} &#8211; {{post.end_date | date: '%b. %Y' }} </h3>
