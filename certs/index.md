@@ -31,7 +31,11 @@ share: true
 * Carbon Black Defense Analyst Training by [Carbon Black](https://www.carbonblack.com/){:target="_blank" rel="noopener"}
 
 ### Misc:
-* Active Defense & Cyber Deception by [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
+
+* Breaching The Cloud Perimeter (4-Hours) by [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
+* Active Defense & Cyber Deception (4-Hours) by [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
+* Foundations of Operationalizing MITRE ATT&CK by [AttackIQ](https://academy.attackiq.com/){:target="_blank" rel="noopener"}
+* Foundations of Purple Teaming by [AttackIQ](https://academy.attackiq.com/){:target="_blank" rel="noopener"}
 * Social Engineering, OSINT & Malware for Hacking by [Udemy](https://www.udemy.com/user/muharrem-aydin-2/){:target="_blank" rel="noopener"}
 * Risk Management for Cybersecurity and IT Managers [Udemy](https://www.udemy.com/user/jason-dion/){:target="_blank" rel="noopener"}
 * Web hacking and Security by [Udemy](https://www.udemy.com/user/infysec-2/){:target="_blank" rel="noopener"}
