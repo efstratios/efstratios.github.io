@@ -44,8 +44,7 @@
      {% capture year %}{{ post.date | date: '%b. %Y' }}{% endcapture %}
       {% if year != written_year and nyear != written_year %}
       {% if post.title == 'Senior Information Security Engineer' %}
-          {% assign end_date = site.time | date: '%b. %Y' %}
-          <h3> {{ year }} &#8211; {{ end_date }} </h3>
+          <h3> {{ year }} &#8211; <span id="date"></span> </h3>
         {% else %}
           <h3> {{ year }} &#8211; {{post.end_date | date: '%b. %Y' }} </h3>
         {% capture written_year %}{{ year }}{% endcapture %}
@@ -70,6 +69,16 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
+
+<script>
+
+var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];;
+var date = new Date();
+
+document.getElementById('date').innerHTML = months[date.getMonth()] + ' ' + date.getFullYear();
+
+</script>
+
 
 </body>
 </html>
