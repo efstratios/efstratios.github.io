@@ -8,11 +8,11 @@ excerpt: "Efstratios Skleparis - Personal Webpage"
 
  <br/>Very passionate about learning I constantly strive to expand my knowledge in the field of Information Security and Privacy Protection. Love to get hands-on with R&D; especially when it requires safeguarding mission critical systems.
 
-## Research interests
+## Interests
 
-* Information Security
+* Application Security
+* Threat Intelligence 
 * Privacy Protection
-* Mobile/Network Security
 * Virtualization Technologies and Cloud Computing
 
 ## Contact
