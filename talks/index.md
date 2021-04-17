@@ -9,7 +9,8 @@ share: true
 * Offensive PowerShell Methods for Attacking Active Directory at [BSides Cyprus 2019](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
 
 ### Security Awareness Trainings:
-* Phishing And Social Engineering Attacks at Greek Unified Social Security Fund
+* Phishing And Social Engineering Attacks at Greek Unified Social Security Fund and National Organization
+for the Provision of Health
 * Open Source Threat Intelligence at Greek Unified Social Security Fund
 * MITRE Framework – tactics and techniques of cyberattacks at Greek Unified Social Security Fund
 
