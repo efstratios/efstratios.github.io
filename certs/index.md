@@ -6,6 +6,7 @@ share: true
 ---
 
 ### Certifications:
+* Offensive Security Web Expert (OSWE) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Offensive Security Certified Professional (OSCP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Offensive Security Wireless Professional (OSWP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Certified Red Team Professional (CRTP) by [Pentester Academy](https://www.pentesteracademy.com/activedirectorylab){:target="_blank" rel="noopener"}
