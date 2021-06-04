@@ -10,6 +10,7 @@ share: true
 * Offensive Security Certified Professional (OSCP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Offensive Security Wireless Professional (OSWP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Certified Red Team Professional (CRTP) by [Pentester Academy](https://www.pentesteracademy.com/activedirectorylab){:target="_blank" rel="noopener"}
+* ISO/IEC 27001 Lead Auditor by [PECB](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor){:target="_blank" rel="noopener"}
 * Nessus Certificate of Proficiency by [Tenable](https://www.tenable.com/education/certification){:target="_blank" rel="noopener"}
 
 ###	Mobile related courses:
