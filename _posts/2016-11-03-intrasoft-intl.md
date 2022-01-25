@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Senior Information Security Engineer"
-excerpt: "Member of INTRASOFT International S.A Information Security Team located at Athens, Greece."
+excerpt: "Member of Netcompany-Intrasoft Information Security Team located at Athens, Greece."
 tags: [sample post, code, highlighting]
 share: true
 index: 3
 ---
 
 
-### Company Name: [INTRASOFT International S.A.](https://www.intrasoft-intl.com/)
+### Company Name: [Netcompany-Intrasoft](https://www.netcompany-intrasoft.com/) (previously known as INTRASOFT International)
 
 ### Duration: November 2016 - <span id="date"></span> 
 
