@@ -43,7 +43,7 @@
     {% for post in sorted %}  
      {% capture year %}{{ post.date | date: '%b. %Y' }}{% endcapture %}
       {% if year != written_year and nyear != written_year %}
-      {% if post.title == 'Senior Information Security Engineer' %}
+      {% if post.title == 'ITSO - Application Security Coordinator' %}
           <h3> {{ year }} &#8211; <span id="date"></span> </h3>
         {% else %}
           <h3> {{ year }} &#8211; {{post.end_date | date: '%b. %Y' }} </h3>
