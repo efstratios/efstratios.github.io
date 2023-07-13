@@ -6,6 +6,7 @@ share: true
 ---
 
 ### Certifications:
+* GIAC Cloud Security Automation Certification (GCSA) by [GIAC](https://www.giac.org/certifications/cloud-security-automation-gcsa/){:target="_blank" rel="noopener"}
 * Offensive Security Web Expert (OSWE) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Offensive Security Certified Professional (OSCP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * Offensive Security Wireless Professional (OSWP) by [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
