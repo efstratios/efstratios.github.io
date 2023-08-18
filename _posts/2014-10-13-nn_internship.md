@@ -14,7 +14,7 @@ index: 0
 
 ---
 
-Job Description:
+Job responsibilities & duties:
 
 * Follow existing policies to oversee and maintain enforcement of all security policies, procedures, and associated plans for system security administration and user system access.
 * Accurately configure access and roles for the implementation of user account accesses.
