@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Information Security Analyst"
-excerpt: "Fulfilled my Military Service Obligations at Hellenic Army Cyber Defence Division."
+excerpt: "Fulfilled my military service obligations at the Cyber Defense Division, Research and Informatics corps of Hellenic Army."
 tags: [sample post, code, highlighting]
 end_date: 2016-10-18
 share: true
@@ -13,13 +13,9 @@ index: 1
 ### Duration: February 2016 - October 2016
 
 ---
-Fulfilled my Military Service Obligations at Research and Informatics Corps, Hellenic Army.
 
 <br/>
-During my Military Service as Research and Informatics Corps Private, I was an Information Security Analyst for Hellenic Army Cyber Defence Division.
+During my military service as Research and Informatics corps private, I was an Information Security Analyst (level 2) for Hellenic Army Cyber Defence Division.
 
 <br/>
-Hellenic Army Information Technology Support Center (ΚΕ.Π.Υ.Ε.Σ) is ISO 27001:2013 Certified. 
-
-<br/>
-The rest is classified..
+The remaining information is confidential.
