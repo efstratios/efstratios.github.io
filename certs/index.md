@@ -36,6 +36,7 @@ share: true
 
 ### Misc:
 
+* SEC540: Cloud Security and DevSecOps Automation by [SANS](https://www.sans.org/cyber-security-courses/cloud-security-devsecops-automation/){:target="_blank" rel="noopener"}
 * Breaching The Cloud Perimeter (4-Hours) by [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
 * Active Defense & Cyber Deception (4-Hours) by [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
 * Foundations of Operationalizing MITRE ATT&CK by [AttackIQ](https://academy.attackiq.com/){:target="_blank" rel="noopener"}
