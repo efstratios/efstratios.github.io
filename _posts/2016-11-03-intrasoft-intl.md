@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Senior Information Security Engineer"
-excerpt: "Member of Netcompany-Intrasoft Information Security Team located in Athens, Greece."
+excerpt: "Member of the Netcompany-Intrasoft information security team, based in Athens, Greece."
 tags: [sample post, code, highlighting]
 end_date: 2022-06-15
 share: true
