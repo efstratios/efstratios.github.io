@@ -6,6 +6,7 @@ share: true
 ---
 
 ### Conferences:
+* CFP Review Committee at [BSides Cyprus 2023](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
 * Offensive PowerShell Methods for Attacking Active Directory at [BSides Cyprus 2019](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
 
 ### Security Awareness Trainings:
