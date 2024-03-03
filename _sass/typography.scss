@@ -137,6 +137,7 @@ p {
     & + p {
 			text-indent: $indent-var;
 			margin-top: -($indent-var);
+			text-align: justify;
 		}
 	}
 }
