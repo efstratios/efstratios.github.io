@@ -1,5 +1,5 @@
-<script>if (!window.jQuery){var script=document.createElement('script');script.src="{{site.url}}/assets/js/vendor/jquery.min.js";document.head.appendChild(script);}</script>
-<script src="{{site.url}}/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
