@@ -12,7 +12,7 @@
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
-  {% if author.location %}<span class="author-social" itemprop="name" ><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>{{ author.location }}</span>{% endif %}
+  {% if author.location %}<span class="author-social" itemprop="name" ><i class="fa fa-fw fa-map-marker"></i>{{ author.location }}</span>{% endif %}
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank" rel="noopener"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.linkedin %}<a href="http://linkedin.com/in/{{ author.linkedin }}" class="author-social" target="_blank" rel="noopener"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank" rel="noopener"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
