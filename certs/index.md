@@ -37,6 +37,7 @@ share: true
 
 ### Misc:
 
+* SEC549: Cloud Security Architecture by [SANS](https://www.sans.org/cyber-security-courses/cloud-security-architecture)
 * Leadership Communication with Impact by [INSEAD](https://www.insead.edu/executive-education/open-online-programmes/leadership-communication-impact){:target="_blank" rel="noopener"}
 * SEC540: Cloud Security and DevSecOps Automation by [SANS](https://www.sans.org/cyber-security-courses/cloud-security-devsecops-automation/){:target="_blank" rel="noopener"}
 * Breaching The Cloud Perimeter (4-Hours) by [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
