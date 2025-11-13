@@ -60,7 +60,7 @@ share: true
 
 ---
 
-### 🗣️ Leadership & Communication
+### Leadership & Communication
 
 * **Leadership Communication with Impact** — [INSEAD](https://www.insead.edu/executive-education/open-online-programmes/leadership-communication-impact){:target="_blank" rel="noopener"}
 * Completed various skill development and management trainings — [European School of Administration (EUSA)](https://commission.europa.eu/about/departments-and-executive-agencies/european-school-administration_en){:target="_blank" rel="noopener"}
