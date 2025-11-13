@@ -31,6 +31,11 @@ share: true
 * Foundations of Purple Teaming — [AttackIQ](https://academy.attackiq.com/){:target="_blank" rel="noopener"}
 * Nessus Certificate of Proficiency — [Tenable](https://www.tenable.com/education/certification){:target="_blank" rel="noopener"}
 
+#### **Mobile Application Security**
+
+* **Android Application Hacking BlackHat Edition** — [AppSec Labs](https://appsec-labs.com/){:target="_blank" rel="noopener"}
+* Learn Hacking Using Android From Scratch — [Udemy](https://www.udemy.com/user/zaidsabih/){:target="_blank" rel="noopener"}
+
 #### **Endpoint, Incident Response & Threat Defense**
 
 * Active Defense & Cyber Deception (4-Hours) — [BLACK HILLS Information Security](https://www.blackhillsinfosec.com/){:target="_blank" rel="noopener"}
@@ -40,11 +45,6 @@ share: true
 * Carbon Black Defense Administrator Training — [Carbon Black](https://www.carbonblack.com/){:target="_blank" rel="noopener"}
 * Carbon Black Defense Analyst Training — [Carbon Black](https://www.carbonblack.com/){:target="_blank" rel="noopener"}
 * IBM QRadar SIEM Foundation — [IBM](https://www.securitylearningacademy.com/course/view.php?id=3104){:target="_blank" rel="noopener"}
-
-#### **Mobile Application Security**
-
-* **Android Application Hacking BlackHat Edition** — [AppSec Labs](https://appsec-labs.com/){:target="_blank" rel="noopener"}
-* Learn Hacking Using Android From Scratch — [Udemy](https://www.udemy.com/user/zaidsabih/){:target="_blank" rel="noopener"}
 
 #### **Wi-Fi & Network Penetration Testing**
 
