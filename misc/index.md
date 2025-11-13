@@ -6,6 +6,7 @@ excerpt: "Miscellaneous Information"
 
 * [Colorize](http://misc.flogisoft.com/bash/tip_colors_and_formatting){:target="_blank"} your terminal
 * Entertainment website about [coding](http://thecodinglove.com/){:target="_blank"}
+* A [webcomic] (https://xkcd.com/){:target="_blank"} of romance, sarcasm, math, and language.
 * The best [advice](https://www.linkedin.com/pulse/best-advice-ive-received-never-hiroshi){:target="_blank"} I have received: Never stop studying. By Hiroshi Mikitani
 * Best [wallpapers](http://alpha.wallhaven.cc/){:target="_blank"} on the net
 
