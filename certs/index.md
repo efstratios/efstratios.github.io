@@ -15,8 +15,9 @@ share: true
 
 ### Governance, Risk & Compliance (GRC) Certifications
 
-* **ISO/IEC 27001 Lead Auditor** — [PECB](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor){:target="_blank" rel="noopener"}
+* **PM² Certified** — [European Commission](https://pm2.europa.eu/index_en){:target="_blank" rel="noopener"}
 * **C)CSSM: Certified Cybersecurity Systems Manager** — [Mile2](https://mile2.com/ccssm-outline/){:target="_blank" rel="noopener"}
+* **ISO/IEC 27001 Lead Auditor** — [PECB](https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor){:target="_blank" rel="noopener"}
 
 ---
 
