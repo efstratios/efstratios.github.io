@@ -7,6 +7,7 @@ share: true
 
 ### Core Professional Certifications
 
+* **GIAC Cloud Security Architecture and Design (GCAD)** — [GIAC](https://www.giac.org/certifications/cloud-security-architecture-design-gcad/){:target="_blank" rel="noopener"}
 * **GIAC Cloud Security Automation Certification (GCSA)** — [GIAC](https://www.giac.org/certifications/cloud-security-automation-gcsa/){:target="_blank" rel="noopener"}
 * **Offensive Security Web Expert (OSWE)** — [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
 * **Offensive Security Certified Professional (OSCP)** — [Offensive Security](https://www.offensive-security.com/){:target="_blank" rel="noopener"}
