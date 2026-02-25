@@ -1,8 +1,5 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<html lang="en">
 <head>
 {% include _head.html %}
 </head>
@@ -41,7 +38,7 @@
     <div class="article-wrap">
       {{ content }}
       <footer role="contentinfo">
-        <h4> <small class="pull-right">(<a href="{{ site.url }}/experience/">Go back</a>)</small></h4
+        <h4> <small class="pull-right">(<a href="{{ site.url }}/experience/">Go back</a>)</small></h4>
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
@@ -61,6 +58,14 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
+
+{% if page.date_current %}
+<script>
+var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+var d = new Date();
+document.getElementById('date').innerHTML = months[d.getMonth()] + ' ' + d.getFullYear();
+</script>
+{% endif %}
 
 </body>
 </html>
