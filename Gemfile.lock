@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.7)
-      public_suffix (>= 2.0.2, < 7.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
     bigdecimal (3.2.2)
     colorator (1.1.0)
@@ -13,7 +13,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     eventmachine (1.2.7-x86-mingw32)
     faraday (2.5.2)
       faraday-net_http (>= 2.0, < 3.1)
@@ -87,7 +86,7 @@ GEM
       jekyll (>= 2.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (6.0.1)
+    public_suffix (7.0.5)
     rack (3.1.18)
     rake (13.2.1)
     rb-fsevent (0.11.2)
@@ -117,7 +116,7 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
+  x64-mingw-ucrt
   x86-mingw32
 
 DEPENDENCIES
