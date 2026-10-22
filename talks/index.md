@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Talks"
-tags: [sample post, code, highlighting]
+tags: [talks, conferences, ctf, first conference, bsides, workshops, presentations]
 share: true
 ---
 

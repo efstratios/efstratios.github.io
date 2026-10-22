@@ -2,7 +2,7 @@
 layout: post
 title: "Information Security Analyst"
 excerpt: "Fulfilled my military service obligations at the Cyber Defense Division, Research and Informatics corps of Hellenic Army."
-tags: [sample post, code, highlighting]
+tags: [information security analyst, cyber defense, military service, hellenic army, incident response]
 end_date: 2016-10-18
 share: true
 index: 1

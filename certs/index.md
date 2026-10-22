@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Certifications & Courses"
-tags: [sample post, code, highlighting]
+tags: [certifications, gcad, gcsa, oswe, oscp, oswp, crtp, pm2, ccssm, iso27001, sans]
 share: true
 ---
 

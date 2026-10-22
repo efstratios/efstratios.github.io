@@ -2,7 +2,7 @@
 layout: post
 title: "Senior Information Security Engineer"
 excerpt: "Member of the Netcompany-Intrasoft information security team, based in Athens, Greece."
-tags: [sample post, code, highlighting]
+tags: [information security engineer, intrasoft, netcompany, cyber defense, security engineering]
 end_date: 2022-06-15
 share: true
 index: 3

@@ -2,7 +2,7 @@
 layout: post
 title: "IT User Security Administrator [Internship]"
 excerpt: "Internship at NN Hellenic Life Insurance Co. S.A. (former ING Greek Life Insurance Company S.A.)"
-tags: [sample post, code, highlighting]
+tags: [security administration, access control, identity management, internship, compliance]
 end_date: 2015-01-12
 share: true
 index: 0
