@@ -91,6 +91,13 @@ svg:not(:root) {
   }
 }
 
+/* Rounded button */
+
+.btn-round {
+  @include rounded(24px);
+  padding: 9px 24px;
+}
+
 /* Success button */
 
 .btn-success {
