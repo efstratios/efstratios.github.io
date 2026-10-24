@@ -6,9 +6,13 @@ share: true
 ---
 
 ### Committees & Conferences:
+* Programme Committee Member at the [CERT-EU Annual Conference "Steam & Steel: The Chronicles of the Cyberverse", Brussels 2026](https://web.archive.org/web/20260320234520/https://cert.europa.eu/conference/steam-n-steel-the-chronicles-of-the-cyberverse/announcement){:target="_blank" rel="noopener"}
+* FIRST SecLounge CTF Challenge Contributor at the [38th Annual FIRST Conference in the US 2026](https://www.first.org/conference/2026/ctf){:target="_blank" rel="noopener"}
 * FIRST SecLounge CTF Challenge Contributor at the [37th Annual FIRST Conference in Denmark 2025](https://www.first.org/conference/2025/ctf){:target="_blank" rel="noopener"}
 * FIRST SecLounge CTF Challenge Contributor at the [36th Annual FIRST Conference in Japan 2024](https://www.first.org/conference/2024/ctf){:target="_blank" rel="noopener"}
-* FIRST SecLounge CTF Challenge Contributor at [Hack.lu CTF 2024](https://hacklu.firstseclounge.org/){:target="_blank" rel="noopener"}
+* [FIRST SecLounge](https://www.firstseclounge.org/){:target="_blank" rel="noopener"} CTF Challenge Contributor at [Hack.lu CTF 2026](https://2026.hack.lu/){:target="_blank" rel="noopener"}
+* [FIRST SecLounge](https://www.firstseclounge.org/){:target="_blank" rel="noopener"} CTF Challenge Contributor at [Hack.lu CTF 2025](https://2025.hack.lu/){:target="_blank" rel="noopener"}
+* [FIRST SecLounge](https://www.firstseclounge.org/){:target="_blank" rel="noopener"} CTF Challenge Contributor at [Hack.lu CTF 2024](https://2024.hack.lu/){:target="_blank" rel="noopener"}
 * CFP Review Committee at [BSides Cyprus 2023](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
 * Offensive PowerShell Methods for Attacking Active Directory at [BSides Cyprus 2019](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
 
