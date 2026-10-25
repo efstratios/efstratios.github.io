@@ -21,6 +21,3 @@ share: true
 for the Provision of Health (Ε.Ο.Π.Υ.Υ.)
 * Open Source Threat Intelligence at Greek Unified Social Security Fund (ΕΦΚΑ)
 * MITRE Framework – Tactics and Techniques of Cyberattacks at Greek Unified Social Security Fund (ΕΦΚΑ)
-
-### Workshops:
-* Cyber Security Threat – Risks & Mitigation at Digital Disruptions & ICT Trends (SACCO Sector, Location: Africa) 
