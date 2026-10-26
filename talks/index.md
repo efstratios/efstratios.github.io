@@ -18,6 +18,7 @@ share: true
 
 ### Mentorship:
 * Mentor at the [Women4Cyber](https://women4cyber.eu/){:target="_blank" rel="noopener"} [Mentorship Programme](https://women4cybermentorship.chronus.com/){:target="_blank" rel="noopener"}, 2025 and 2026 cohorts
+* Mentor at the European Commission Cybersecurity Training Programme, 2023–2024 and 2025–2026
 
 ### Security Awareness Trainings:
 * Phishing And Social Engineering Attacks at Greek Unified Social Security Fund (ΕΦΚΑ) and National Organization
