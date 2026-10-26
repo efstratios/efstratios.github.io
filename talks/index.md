@@ -14,14 +14,11 @@ share: true
 * [FIRST SecLounge](https://www.firstseclounge.org/){:target="_blank" rel="noopener"} CTF Challenge Contributor at [Hack.lu CTF 2025](https://2025.hack.lu/){:target="_blank" rel="noopener"}
 * [FIRST SecLounge](https://www.firstseclounge.org/){:target="_blank" rel="noopener"} CTF Challenge Contributor at [Hack.lu CTF 2024](https://2024.hack.lu/){:target="_blank" rel="noopener"}
 * Programme Committee Member (CFP reviewer) at [BSides Cyprus 2023](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
-* Offensive PowerShell Methods for Attacking Active Directory at [BSides Cyprus 2019](https://bsidescyprus.com/){:target="_blank" rel="noopener"}
+* Speaker on Offensive PowerShell Methods for Attacking Active Directory at [BSides Cyprus 2019](https://2019.bsidescyprus.com/agenda.html){:target="_blank" rel="noopener"}
 
 ### Mentorship:
 * Mentor at the [Women4Cyber](https://women4cyber.eu/){:target="_blank" rel="noopener"} [Mentorship Programme](https://women4cybermentorship.chronus.com/){:target="_blank" rel="noopener"}, 2025 and 2026 cohorts
 * Mentor at the European Commission Cybersecurity Training Programme, 2023–2024 and 2025–2026
 
 ### Security Awareness Trainings:
-* Phishing And Social Engineering Attacks at Greek Unified Social Security Fund (ΕΦΚΑ) and National Organization
-for the Provision of Health (Ε.Ο.Π.Υ.Υ.)
-* Open Source Threat Intelligence at Greek Unified Social Security Fund (ΕΦΚΑ)
-* MITRE Framework – Tactics and Techniques of Cyberattacks at Greek Unified Social Security Fund (ΕΦΚΑ)
+* Security Awareness Trainer on phishing and social engineering, open source threat intelligence and the MITRE framework at the [National Social Security Fund of Greece (ΕΦΚΑ)](https://www.e-efka.gov.gr/el){:target="_blank" rel="noopener"} 2020
