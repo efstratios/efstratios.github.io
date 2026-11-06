@@ -19,6 +19,7 @@ A hacker is someone who thinks outside the box. It's someone who discards conven
 ## Quotes
 
 Some of my favorite quotes:
+{: style="margin-bottom: 6px;"}
 
 * Αι δεύτεραι πως φροντίδες σοφώτεραι. Ευριπίδης
 * Ποθητός είναι μάλλον ή φοβερός κατά βίον προαιρού.   
@@ -28,4 +29,5 @@ Some of my favorite quotes:
 * The master has failed more times the beginner has ever tried. S. McCranie
 * Winners never quit and quitters never win. V. Lombardi
 * Push yourself because no one is going to do it for you. Unknown
+{: style="margin-top: 6px;"}
 
